@@ -1,0 +1,10 @@
+run_id=oc_dep_s15_uncertainty
+case_type=dependency_sensitive
+seed=15
+policy=uncertainty_only
+success=1
+irreversible_failure=0
+verification_cost=0.5
+branch_harm_exact=0.0
+verification_used=yes
+reason=public risk hint 0.627 was above 0.45, so verification was used

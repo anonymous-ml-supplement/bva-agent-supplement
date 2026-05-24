@@ -1,0 +1,10 @@
+run_id=oc_dep_s11_noverify
+case_type=dependency_sensitive
+seed=11
+policy=no_verify
+success=0
+irreversible_failure=1
+verification_cost=0.0
+branch_harm_exact=25.0
+verification_used=no
+reason=policy says do not verify, so finalize directly

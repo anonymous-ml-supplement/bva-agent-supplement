@@ -1,0 +1,6 @@
+{
+  "mode": "fixed_fast",
+  "applied_fix": "risky_patch",
+  "visible_status": "looks_good_fast",
+  "target": "submit_ready"
+}

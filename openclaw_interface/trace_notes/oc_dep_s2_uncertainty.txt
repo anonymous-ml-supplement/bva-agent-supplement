@@ -1,0 +1,10 @@
+run_id=oc_dep_s2_uncertainty
+case_type=dependency_sensitive
+seed=2
+policy=uncertainty_only
+success=0
+irreversible_failure=1
+verification_cost=0.0
+branch_harm_exact=25.0
+verification_used=no
+reason=public risk hint 0.398 and low label are below the uncertainty_only threshold, so no verification was used

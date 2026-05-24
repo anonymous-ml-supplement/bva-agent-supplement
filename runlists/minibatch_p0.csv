@@ -1,0 +1,17 @@
+episode_id,case,slice_name,seed,policy,status
+oc_dep_s0_noverify,dependency_sensitive,dependency_sensitive,0,no_verify,done
+oc_dep_s0_always,dependency_sensitive,dependency_sensitive,0,always_verify,done
+oc_dep_s0_uncertainty_default,dependency_sensitive,dependency_sensitive,0,uncertainty_only_default,done
+oc_dep_s0_harm,dependency_sensitive,dependency_sensitive,0,harm_aware_selective,done
+oc_dep_s1_noverify,dependency_sensitive,dependency_sensitive,1,no_verify,done
+oc_dep_s1_always,dependency_sensitive,dependency_sensitive,1,always_verify,done
+oc_dep_s1_uncertainty_default,dependency_sensitive,dependency_sensitive,1,uncertainty_only_default,done
+oc_dep_s1_harm,dependency_sensitive,dependency_sensitive,1,harm_aware_selective,done
+oc_low_s0_noverify,low_risk,low_risk,0,no_verify,pending
+oc_low_s0_always,low_risk,low_risk,0,always_verify,pending
+oc_low_s0_uncertainty_default,low_risk,low_risk,0,uncertainty_only_default,pending
+oc_low_s0_harm,low_risk,low_risk,0,harm_aware_selective,pending
+oc_low_s1_noverify,low_risk,low_risk,1,no_verify,pending
+oc_low_s1_always,low_risk,low_risk,1,always_verify,pending
+oc_low_s1_uncertainty_default,low_risk,low_risk,1,uncertainty_only_default,pending
+oc_low_s1_harm,low_risk,low_risk,1,harm_aware_selective,pending

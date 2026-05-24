@@ -1,0 +1,10 @@
+run_id=oc_dep_s7_noverify
+case_type=dependency_sensitive
+seed=7
+policy=no_verify
+success=0
+irreversible_failure=1
+verification_cost=0.0
+branch_harm_exact=25.0
+verification_used=no
+reason=public risk hint 0.455 is above the always-verify-like threshold only for some policies, but no_verify policy requires direct finalization

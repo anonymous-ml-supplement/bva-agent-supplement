@@ -1,0 +1,3 @@
+Expected output pattern:
+status=submit_ready
+mode=<fixed_mode>

@@ -1,0 +1,10 @@
+run_id=oc_dep_s7_harm
+case_type=dependency_sensitive
+seed=7
+policy=harm_aware_selective
+success=1
+irreversible_failure=0
+verification_cost=0.5
+branch_harm_exact=25.0
+verification_used=yes
+reason=strong coupling and partially reversible state made downstream failure costly, so verify before finalizing

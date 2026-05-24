@@ -1,0 +1,10 @@
+run_id=oc_dep_s2_harm
+case_type=dependency_sensitive
+seed=2
+policy=harm_aware_selective
+success=1
+irreversible_failure=0
+verification_cost=0.5
+branch_harm_exact=25.0
+verification_used=yes
+verification_reason=strong coupling with partially_reversible state suggests likely downstream harm from an uncorrected mistake

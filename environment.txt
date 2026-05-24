@@ -1,0 +1,7 @@
+# Minimal requirements for controlled sandbox scripts
+# Most scripts use only the Python 3 standard library.
+python>=3.10
+
+# Optional, only for user-side plotting/inspection if needed:
+# pandas
+# matplotlib

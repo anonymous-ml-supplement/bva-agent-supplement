@@ -1,0 +1,10 @@
+run_id=oc_dep_s7_always
+case_type=dependency_sensitive
+seed=7
+policy=always_verify
+success=1
+irreversible_failure=0
+verification_cost=0.5
+branch_harm_exact=25.0
+verification_used=yes
+reason=policy requires verification before finalization
