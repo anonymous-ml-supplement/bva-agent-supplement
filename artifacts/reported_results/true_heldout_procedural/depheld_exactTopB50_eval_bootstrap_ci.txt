@@ -1,0 +1,33 @@
+dep_sensitive_held_out exactTopB50 eval bootstrap CI
+Input: ../artifacts/reported_results/true_heldout_procedural/depheld_exactTopB50_eval_raw.csv
+case: dep_sensitive_held_out
+seeds: 400-499
+budget: exact top-B = 50 / 100
+comparison: p_only, H_only, p_times_H under matched verification budget
+Common paired seeds: 100
+Bootstrap resamples: 10000
+
+Raw policy means:
+p_only_exactTopB50: verify_n=50, success=0.860000, irrev=0.140000, net_reward=4.318000, branch_harm=11.618625
+H_only_exactTopB50: verify_n=50, success=0.840000, irrev=0.160000, net_reward=4.023875, branch_harm=11.618625
+p_times_H_exactTopB50: verify_n=50, success=0.840000, irrev=0.160000, net_reward=3.922000, branch_harm=11.618625
+
+Paired bootstrap differences: A - B
+
+p_times_H_exactTopB50 minus p_only_exactTopB50
+  success: diff=-0.020000, 95% CI=[-0.070000, 0.030000]
+  irreversible_failure: diff=0.020000, 95% CI=[-0.030000, 0.070000]
+  net_reward: diff=-0.396000, 95% CI=[-1.898750, 1.099500]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H_exactTopB50 minus H_only_exactTopB50
+  success: diff=0.000000, 95% CI=[-0.060000, 0.060000]
+  irreversible_failure: diff=0.000000, 95% CI=[-0.060000, 0.060000]
+  net_reward: diff=-0.101875, 95% CI=[-2.195250, 1.956625]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+H_only_exactTopB50 minus p_only_exactTopB50
+  success: diff=-0.020000, 95% CI=[-0.100000, 0.060000]
+  irreversible_failure: diff=0.020000, 95% CI=[-0.060000, 0.100000]
+  net_reward: diff=-0.294125, 95% CI=[-2.748375, 2.264375]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]

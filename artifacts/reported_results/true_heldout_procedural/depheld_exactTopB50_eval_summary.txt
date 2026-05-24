@@ -1,0 +1,11 @@
+dep_sensitive_held_out exact-top-B evaluation
+case: dep_sensitive_held_out
+seeds: 400-499
+budget: exact top-B = 50 / 100
+comparison: p_only, H_only, p_times_H under matched verification budget
+verified outcome source: always_verify
+unverified outcome source: p_only
+
+p_only_exactTopB50: n=100, verify_n=50, verify_rate=0.500, success=0.860, irreversible_failure=0.140, avg_net_reward=4.318, avg_verification_cost=0.250, avg_selected_branch_harm=13.473, avg_skipped_branch_harm=9.764
+H_only_exactTopB50: n=100, verify_n=50, verify_rate=0.500, success=0.840, irreversible_failure=0.160, avg_net_reward=4.024, avg_verification_cost=0.250, avg_selected_branch_harm=12.885, avg_skipped_branch_harm=10.352
+p_times_H_exactTopB50: n=100, verify_n=50, verify_rate=0.500, success=0.840, irreversible_failure=0.160, avg_net_reward=3.922, avg_verification_cost=0.250, avg_selected_branch_harm=12.681, avg_skipped_branch_harm=10.556

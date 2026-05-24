@@ -1,0 +1,87 @@
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s400",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 400,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s401",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 401,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s402",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 402,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s403",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 403,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s404",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 404,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s400 --case dep_sensitive_held_out --policy always_verify --seed 400 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s401 --case dep_sensitive_held_out --policy always_verify --seed 401 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s402 --case dep_sensitive_held_out --policy always_verify --seed 402 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s403 --case dep_sensitive_held_out --policy always_verify --seed 403 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s404 --case dep_sensitive_held_out --policy always_verify --seed 404 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+Completed 5 runs.

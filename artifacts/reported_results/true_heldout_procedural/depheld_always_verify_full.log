@@ -1,0 +1,1617 @@
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s405",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 405,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s406",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 406,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s407",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 407,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s408",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 408,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s409",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 409,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 34.537499999999994,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s410",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 410,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s411",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 411,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s412",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 412,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s413",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 413,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 25.925,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s414",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 414,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 34.05,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s415",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 415,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s416",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 416,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s417",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 417,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s418",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 418,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s419",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 419,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s420",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 420,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 32.8,
+  "total_reward": 9.2
+}
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s405 --case dep_sensitive_held_out --policy always_verify --seed 405 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s406 --case dep_sensitive_held_out --policy always_verify --seed 406 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s407 --case dep_sensitive_held_out --policy always_verify --seed 407 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s408 --case dep_sensitive_held_out --policy always_verify --seed 408 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s409 --case dep_sensitive_held_out --policy always_verify --seed 409 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s410 --case dep_sensitive_held_out --policy always_verify --seed 410 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s411 --case dep_sensitive_held_out --policy always_verify --seed 411 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s412 --case dep_sensitive_held_out --policy always_verify --seed 412 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s413 --case dep_sensitive_held_out --policy always_verify --seed 413 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s414 --case dep_sensitive_held_out --policy always_verify --seed 414 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s415 --case dep_sensitive_held_out --policy always_verify --seed 415 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s416 --case dep_sensitive_held_out --policy always_verify --seed 416 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s417 --case dep_sensitive_held_out --policy always_verify --seed 417 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s418 --case dep_sensitive_held_out --policy always_verify --seed 418 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s419 --case dep_sensitive_held_out --policy always_verify --seed 419 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s420 --case dep_sensitive_held_out --policy always_verify --seed 420 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s421",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 421,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s422",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 422,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s423",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 423,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.787499999999998,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s424",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 424,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s425",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 425,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s426",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 426,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s427",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 427,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s428",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 428,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.3,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s429",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 429,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s430",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 430,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s431",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 431,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.675,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s432",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 432,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 32.875,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s433",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 433,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 34.25,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s434",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 434,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s435",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 435,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 32.675,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s436",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 436,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s421 --case dep_sensitive_held_out --policy always_verify --seed 421 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s422 --case dep_sensitive_held_out --policy always_verify --seed 422 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s423 --case dep_sensitive_held_out --policy always_verify --seed 423 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s424 --case dep_sensitive_held_out --policy always_verify --seed 424 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s425 --case dep_sensitive_held_out --policy always_verify --seed 425 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s426 --case dep_sensitive_held_out --policy always_verify --seed 426 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s427 --case dep_sensitive_held_out --policy always_verify --seed 427 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s428 --case dep_sensitive_held_out --policy always_verify --seed 428 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s429 --case dep_sensitive_held_out --policy always_verify --seed 429 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s430 --case dep_sensitive_held_out --policy always_verify --seed 430 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s431 --case dep_sensitive_held_out --policy always_verify --seed 431 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s432 --case dep_sensitive_held_out --policy always_verify --seed 432 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s433 --case dep_sensitive_held_out --policy always_verify --seed 433 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s434 --case dep_sensitive_held_out --policy always_verify --seed 434 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s435 --case dep_sensitive_held_out --policy always_verify --seed 435 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s436 --case dep_sensitive_held_out --policy always_verify --seed 436 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s437",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 437,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 33.3625,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s438",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 438,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s439",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 439,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s440",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 440,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s441",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 441,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 33.3625,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s442",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 442,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s443",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 443,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s444",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 444,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 32.875,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s445",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 445,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s446",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 446,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s447",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 447,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s448",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 448,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s449",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 449,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.349999999999998,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s450",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 450,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.55,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s451",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 451,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s452",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 452,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.675,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s437 --case dep_sensitive_held_out --policy always_verify --seed 437 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s438 --case dep_sensitive_held_out --policy always_verify --seed 438 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s439 --case dep_sensitive_held_out --policy always_verify --seed 439 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s440 --case dep_sensitive_held_out --policy always_verify --seed 440 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s441 --case dep_sensitive_held_out --policy always_verify --seed 441 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s442 --case dep_sensitive_held_out --policy always_verify --seed 442 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s443 --case dep_sensitive_held_out --policy always_verify --seed 443 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s444 --case dep_sensitive_held_out --policy always_verify --seed 444 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s445 --case dep_sensitive_held_out --policy always_verify --seed 445 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s446 --case dep_sensitive_held_out --policy always_verify --seed 446 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s447 --case dep_sensitive_held_out --policy always_verify --seed 447 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s448 --case dep_sensitive_held_out --policy always_verify --seed 448 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s449 --case dep_sensitive_held_out --policy always_verify --seed 449 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s450 --case dep_sensitive_held_out --policy always_verify --seed 450 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s451 --case dep_sensitive_held_out --policy always_verify --seed 451 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s452 --case dep_sensitive_held_out --policy always_verify --seed 452 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s453",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 453,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s454",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 454,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s455",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 455,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s456",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 456,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s457",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 457,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 30.05,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s458",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 458,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s459",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 459,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s460",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 460,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s461",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 461,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s462",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 462,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s463",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 463,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s464",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 464,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s465",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 465,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s466",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 466,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s467",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 467,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s468",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 468,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s453 --case dep_sensitive_held_out --policy always_verify --seed 453 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s454 --case dep_sensitive_held_out --policy always_verify --seed 454 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s455 --case dep_sensitive_held_out --policy always_verify --seed 455 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s456 --case dep_sensitive_held_out --policy always_verify --seed 456 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s457 --case dep_sensitive_held_out --policy always_verify --seed 457 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s458 --case dep_sensitive_held_out --policy always_verify --seed 458 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s459 --case dep_sensitive_held_out --policy always_verify --seed 459 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s460 --case dep_sensitive_held_out --policy always_verify --seed 460 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s461 --case dep_sensitive_held_out --policy always_verify --seed 461 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s462 --case dep_sensitive_held_out --policy always_verify --seed 462 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s463 --case dep_sensitive_held_out --policy always_verify --seed 463 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s464 --case dep_sensitive_held_out --policy always_verify --seed 464 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s465 --case dep_sensitive_held_out --policy always_verify --seed 465 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s466 --case dep_sensitive_held_out --policy always_verify --seed 466 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s467 --case dep_sensitive_held_out --policy always_verify --seed 467 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s468 --case dep_sensitive_held_out --policy always_verify --seed 468 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s469",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 469,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s470",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 470,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s471",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 471,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s472",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 472,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 32.8,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s473",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 473,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.3,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s474",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 474,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s475",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 475,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s476",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 476,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s477",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 477,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s478",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 478,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s479",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 479,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s480",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 480,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s481",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 481,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s482",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 482,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 34.537499999999994,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s483",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 483,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s484",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 484,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s469 --case dep_sensitive_held_out --policy always_verify --seed 469 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s470 --case dep_sensitive_held_out --policy always_verify --seed 470 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s471 --case dep_sensitive_held_out --policy always_verify --seed 471 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s472 --case dep_sensitive_held_out --policy always_verify --seed 472 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s473 --case dep_sensitive_held_out --policy always_verify --seed 473 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s474 --case dep_sensitive_held_out --policy always_verify --seed 474 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s475 --case dep_sensitive_held_out --policy always_verify --seed 475 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s476 --case dep_sensitive_held_out --policy always_verify --seed 476 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s477 --case dep_sensitive_held_out --policy always_verify --seed 477 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s478 --case dep_sensitive_held_out --policy always_verify --seed 478 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s479 --case dep_sensitive_held_out --policy always_verify --seed 479 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s480 --case dep_sensitive_held_out --policy always_verify --seed 480 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s481 --case dep_sensitive_held_out --policy always_verify --seed 481 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s482 --case dep_sensitive_held_out --policy always_verify --seed 482 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s483 --case dep_sensitive_held_out --policy always_verify --seed 483 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s484 --case dep_sensitive_held_out --policy always_verify --seed 484 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s485",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 485,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s486",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 486,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s487",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 487,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s488",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 488,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s489",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 489,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.349999999999998,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s490",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 490,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s491",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 491,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s492",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 492,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 31.425,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s493",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 493,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 35.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s494",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 494,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 30.05,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s495",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 495,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s496",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 496,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s497",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 497,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s498",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 498,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_depheld_always_verify_s499",
+  "case": "dep_sensitive_held_out",
+  "policy": "always_verify",
+  "seed": 499,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s485 --case dep_sensitive_held_out --policy always_verify --seed 485 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s486 --case dep_sensitive_held_out --policy always_verify --seed 486 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s487 --case dep_sensitive_held_out --policy always_verify --seed 487 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s488 --case dep_sensitive_held_out --policy always_verify --seed 488 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s489 --case dep_sensitive_held_out --policy always_verify --seed 489 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s490 --case dep_sensitive_held_out --policy always_verify --seed 490 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s491 --case dep_sensitive_held_out --policy always_verify --seed 491 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s492 --case dep_sensitive_held_out --policy always_verify --seed 492 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s493 --case dep_sensitive_held_out --policy always_verify --seed 493 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s494 --case dep_sensitive_held_out --policy always_verify --seed 494 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s495 --case dep_sensitive_held_out --policy always_verify --seed 495 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s496 --case dep_sensitive_held_out --policy always_verify --seed 496 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s497 --case dep_sensitive_held_out --policy always_verify --seed 497 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s498 --case dep_sensitive_held_out --policy always_verify --seed 498 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_depheld_always_verify_s499 --case dep_sensitive_held_out --policy always_verify --seed 499 --summary-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_raw.csv --runlist-csv ../artifacts/reported_results/true_heldout_procedural/depheld_always_verify_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+Completed 95 runs.
