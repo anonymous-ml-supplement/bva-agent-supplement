@@ -1,0 +1,29 @@
+Table 5 ablation bootstrap CI
+Input: ../artifacts/reported_results/component_ablation/revision_table5_ablation_exactTopB150_raw.csv
+Common paired seeds: 300
+Bootstrap resamples: 10000
+
+Raw policy means:
+H_only: verify_n=150, success=0.826667, irrev=0.173333, net_reward=4.065367, branch_harm=11.294600
+p_times_H: verify_n=150, success=0.816667, irrev=0.183333, net_reward=3.700367, branch_harm=11.294600
+p_only: verify_n=150, success=0.813333, irrev=0.186667, net_reward=3.455233, branch_harm=11.294600
+
+Paired bootstrap differences: A - B
+
+H_only minus p_only
+  success: diff=0.013333, 95% CI=[-0.030000, 0.056667]
+  irreversible_failure: diff=-0.013333, 95% CI=[-0.060000, 0.030000]
+  net_reward: diff=0.610133, 95% CI=[-0.683167, 1.974367]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H minus p_only
+  success: diff=0.003333, 95% CI=[-0.026667, 0.033333]
+  irreversible_failure: diff=-0.003333, 95% CI=[-0.033333, 0.026667]
+  net_reward: diff=0.245133, 95% CI=[-0.624233, 1.148433]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+H_only minus p_times_H
+  success: diff=0.010000, 95% CI=[-0.023333, 0.043333]
+  irreversible_failure: diff=-0.010000, 95% CI=[-0.043333, 0.023333]
+  net_reward: diff=0.365000, 95% CI=[-0.625333, 1.356100]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]

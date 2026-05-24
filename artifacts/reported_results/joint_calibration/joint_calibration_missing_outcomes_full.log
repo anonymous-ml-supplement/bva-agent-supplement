@@ -1,0 +1,1770 @@
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s129",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 129,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s134",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 134,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s136",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 136,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 26.77,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s137",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 137,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s138",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 138,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.599999999999998,
+  "total_reward": -22.4
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s141",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 141,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s142",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 142,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.330000000000002,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s143",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 143,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.24,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s144",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 144,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 26.14,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s148",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 148,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.27,
+  "total_reward": -22.07
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s149",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 149,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s151",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 151,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s152",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 152,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s153",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 153,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s154",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 154,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s129 --case dependency_sensitive --policy no_verify --seed 129 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s134 --case dependency_sensitive --policy always_verify --seed 134 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s136 --case dependency_sensitive --policy always_verify --seed 136 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s137 --case dependency_sensitive --policy no_verify --seed 137 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s138 --case dependency_sensitive --policy no_verify --seed 138 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s141 --case dependency_sensitive --policy always_verify --seed 141 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s142 --case dependency_sensitive --policy always_verify --seed 142 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s143 --case dependency_sensitive --policy always_verify --seed 143 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s144 --case dependency_sensitive --policy always_verify --seed 144 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s148 --case dependency_sensitive --policy no_verify --seed 148 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s149 --case dependency_sensitive --policy no_verify --seed 149 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s151 --case dependency_sensitive --policy always_verify --seed 151 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s152 --case dependency_sensitive --policy no_verify --seed 152 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s153 --case dependency_sensitive --policy no_verify --seed 153 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s154 --case dependency_sensitive --policy no_verify --seed 154 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s155",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 155,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.64,
+  "total_reward": -21.44
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s156",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 156,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s158",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 158,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s160",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 160,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s162",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 162,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s167",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 167,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s169",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 169,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s172",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 172,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s173",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 173,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.27,
+  "total_reward": -22.07
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s174",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 174,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 27.82,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s177",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 177,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s178",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 178,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s180",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 180,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.970000000000002,
+  "total_reward": -21.770000000000003
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s181",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 181,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 26.98,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s182",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 182,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s155 --case dependency_sensitive --policy no_verify --seed 155 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s156 --case dependency_sensitive --policy no_verify --seed 156 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s158 --case dependency_sensitive --policy always_verify --seed 158 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s160 --case dependency_sensitive --policy no_verify --seed 160 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s162 --case dependency_sensitive --policy no_verify --seed 162 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s167 --case dependency_sensitive --policy always_verify --seed 167 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s169 --case dependency_sensitive --policy no_verify --seed 169 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s172 --case dependency_sensitive --policy always_verify --seed 172 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s173 --case dependency_sensitive --policy no_verify --seed 173 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s174 --case dependency_sensitive --policy always_verify --seed 174 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s177 --case dependency_sensitive --policy no_verify --seed 177 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s178 --case dependency_sensitive --policy no_verify --seed 178 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s180 --case dependency_sensitive --policy no_verify --seed 180 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s181 --case dependency_sensitive --policy always_verify --seed 181 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s182 --case dependency_sensitive --policy no_verify --seed 182 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s183",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 183,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 33.07,
+  "total_reward": -23.87
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s184",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 184,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 25.09,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s185",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 185,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s186",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 186,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 26.14,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s187",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 187,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 27.19,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s189",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 189,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s191",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 191,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s192",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 192,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.220000000000002,
+  "total_reward": -21.020000000000003
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s193",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 193,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s195",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 195,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.48,
+  "total_reward": -22.28
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s196",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 196,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s199",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 199,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s200",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 200,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s203",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 203,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s205",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 205,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s183 --case dependency_sensitive --policy no_verify --seed 183 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s184 --case dependency_sensitive --policy always_verify --seed 184 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s185 --case dependency_sensitive --policy always_verify --seed 185 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s186 --case dependency_sensitive --policy always_verify --seed 186 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s187 --case dependency_sensitive --policy always_verify --seed 187 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s189 --case dependency_sensitive --policy no_verify --seed 189 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s191 --case dependency_sensitive --policy no_verify --seed 191 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s192 --case dependency_sensitive --policy no_verify --seed 192 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s193 --case dependency_sensitive --policy no_verify --seed 193 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s195 --case dependency_sensitive --policy no_verify --seed 195 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s196 --case dependency_sensitive --policy always_verify --seed 196 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s199 --case dependency_sensitive --policy always_verify --seed 199 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s200 --case dependency_sensitive --policy no_verify --seed 200 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s203 --case dependency_sensitive --policy always_verify --seed 203 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s205 --case dependency_sensitive --policy no_verify --seed 205 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s206",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 206,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s207",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 207,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s209",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 209,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s210",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 210,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s213",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 213,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s215",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 215,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s217",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 217,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.38,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s219",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 219,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.599999999999998,
+  "total_reward": -22.4
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s220",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 220,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s222",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 222,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s223",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 223,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.27,
+  "total_reward": -22.07
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s230",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 230,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s233",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 233,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.5,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s234",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 234,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.45,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s235",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 235,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s206 --case dependency_sensitive --policy always_verify --seed 206 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s207 --case dependency_sensitive --policy no_verify --seed 207 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s209 --case dependency_sensitive --policy no_verify --seed 209 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s210 --case dependency_sensitive --policy no_verify --seed 210 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s213 --case dependency_sensitive --policy no_verify --seed 213 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s215 --case dependency_sensitive --policy no_verify --seed 215 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s217 --case dependency_sensitive --policy always_verify --seed 217 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s219 --case dependency_sensitive --policy no_verify --seed 219 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s220 --case dependency_sensitive --policy always_verify --seed 220 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s222 --case dependency_sensitive --policy always_verify --seed 222 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s223 --case dependency_sensitive --policy no_verify --seed 223 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s230 --case dependency_sensitive --policy always_verify --seed 230 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s233 --case dependency_sensitive --policy always_verify --seed 233 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s234 --case dependency_sensitive --policy always_verify --seed 234 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s235 --case dependency_sensitive --policy always_verify --seed 235 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s239",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 239,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.64,
+  "total_reward": -21.44
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s241",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 241,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s243",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 243,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.029999999999998,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s244",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 244,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.169999999999998,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s245",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 245,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s247",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 247,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.970000000000002,
+  "total_reward": -21.770000000000003
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s249",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 249,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s252",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 252,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.330000000000002,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s253",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 253,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 33.370000000000005,
+  "total_reward": -24.17
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s254",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 254,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 27.19,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s255",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 255,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s256",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 256,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s257",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 257,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.54,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s258",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 258,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s259",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 259,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s239 --case dependency_sensitive --policy no_verify --seed 239 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s241 --case dependency_sensitive --policy no_verify --seed 241 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s243 --case dependency_sensitive --policy always_verify --seed 243 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s244 --case dependency_sensitive --policy always_verify --seed 244 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s245 --case dependency_sensitive --policy no_verify --seed 245 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s247 --case dependency_sensitive --policy no_verify --seed 247 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s249 --case dependency_sensitive --policy always_verify --seed 249 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s252 --case dependency_sensitive --policy always_verify --seed 252 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s253 --case dependency_sensitive --policy no_verify --seed 253 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s254 --case dependency_sensitive --policy always_verify --seed 254 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s255 --case dependency_sensitive --policy always_verify --seed 255 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s256 --case dependency_sensitive --policy always_verify --seed 256 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s257 --case dependency_sensitive --policy always_verify --seed 257 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s258 --case dependency_sensitive --policy always_verify --seed 258 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s259 --case dependency_sensitive --policy always_verify --seed 259 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s260",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 260,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s267",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 267,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s268",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 268,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 27.82,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s270",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 270,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s271",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 271,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s273",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 273,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s274",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 274,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s277",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 277,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s278",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 278,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.24,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s279",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 279,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s280",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 280,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s281",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 281,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s286",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 286,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s287",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 287,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s294",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 294,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 27.49,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s260 --case dependency_sensitive --policy always_verify --seed 260 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s267 --case dependency_sensitive --policy always_verify --seed 267 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s268 --case dependency_sensitive --policy always_verify --seed 268 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s270 --case dependency_sensitive --policy always_verify --seed 270 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s271 --case dependency_sensitive --policy no_verify --seed 271 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s273 --case dependency_sensitive --policy no_verify --seed 273 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s274 --case dependency_sensitive --policy always_verify --seed 274 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s277 --case dependency_sensitive --policy no_verify --seed 277 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s278 --case dependency_sensitive --policy always_verify --seed 278 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s279 --case dependency_sensitive --policy no_verify --seed 279 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s280 --case dependency_sensitive --policy no_verify --seed 280 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s281 --case dependency_sensitive --policy always_verify --seed 281 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s286 --case dependency_sensitive --policy no_verify --seed 286 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s287 --case dependency_sensitive --policy no_verify --seed 287 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s294 --case dependency_sensitive --policy always_verify --seed 294 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s295",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 295,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.59,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s296",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 296,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 27.82,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s297",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 297,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s298",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 298,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s302",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 302,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s303",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 303,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s304",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 304,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 28.54,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s307",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 307,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s308",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 308,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s309",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 309,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_verified_s311",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 311,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s313",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 313,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s314",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 314,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.900000000000002,
+  "total_reward": -22.700000000000003
+}
+{
+  "status": "ok",
+  "episode_id": "revision_jointcal_missing_unverified_s315",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 315,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s295 --case dependency_sensitive --policy always_verify --seed 295 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s296 --case dependency_sensitive --policy always_verify --seed 296 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s297 --case dependency_sensitive --policy always_verify --seed 297 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s298 --case dependency_sensitive --policy always_verify --seed 298 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s302 --case dependency_sensitive --policy always_verify --seed 302 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s303 --case dependency_sensitive --policy no_verify --seed 303 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s304 --case dependency_sensitive --policy always_verify --seed 304 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s307 --case dependency_sensitive --policy no_verify --seed 307 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s308 --case dependency_sensitive --policy always_verify --seed 308 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s309 --case dependency_sensitive --policy no_verify --seed 309 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_verified_s311 --case dependency_sensitive --policy always_verify --seed 311 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s313 --case dependency_sensitive --policy no_verify --seed 313 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s314 --case dependency_sensitive --policy no_verify --seed 314 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_jointcal_missing_unverified_s315 --case dependency_sensitive --policy no_verify --seed 315 --summary-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/joint_calibration/joint_calibration_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+Completed 104 runs.

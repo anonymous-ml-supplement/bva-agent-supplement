@@ -1,0 +1,8 @@
+Correlated verifier failure exact-top-B evaluation
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200 by clean p_times_H
+uniform verifier q = 0.35
+correlated verifier: hard selected top 0.25 by branch_harm_exact use q_low=0.1, others use q_high=0.6
+
+p_times_H_uniform_q0p35: n=200, verify_n=100, corrected_n=38, detected_rate=0.380, hard_detect_rate=0.440, success=0.685, irreversible_failure=0.315, avg_net_reward=-0.707
+p_times_H_correlated_qhard0p10_qeasy0p60: n=200, verify_n=100, corrected_n=43, detected_rate=0.430, hard_detect_rate=0.040, success=0.640, irreversible_failure=0.360, avg_net_reward=-2.125

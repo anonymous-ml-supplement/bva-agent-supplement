@@ -1,0 +1,51 @@
+Joint calibration exactTopB100 eval bootstrap CI
+Input: ../artifacts/reported_results/joint_calibration/joint_calibration_exactTopB100_eval_raw.csv
+cal split: seeds 20-119
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200
+Common paired seeds: 200
+Bootstrap resamples: 10000
+
+Raw policy means:
+p_only_eval: verify_n=100, success=0.790000, irrev=0.210000, net_reward=2.870750, branch_harm=12.260150
+H_only_eval: verify_n=100, success=0.790000, irrev=0.210000, net_reward=3.091550, branch_harm=12.260150
+p_times_H_eval: verify_n=100, success=0.795000, irrev=0.205000, net_reward=3.171700, branch_harm=12.260150
+p_times_H_calibrated_eval: verify_n=100, success=0.795000, irrev=0.205000, net_reward=3.171700, branch_harm=12.260150
+
+Paired bootstrap differences: A - B
+
+p_times_H_eval minus p_only_eval
+  success: diff=0.005000, 95% CI=[-0.030000, 0.040000]
+  irreversible_failure: diff=-0.005000, 95% CI=[-0.040000, 0.030000]
+  net_reward: diff=0.300950, 95% CI=[-0.739950, 1.346300]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+H_only_eval minus p_only_eval
+  success: diff=0.000000, 95% CI=[-0.055000, 0.055000]
+  irreversible_failure: diff=0.000000, 95% CI=[-0.055000, 0.055000]
+  net_reward: diff=0.220800, 95% CI=[-1.413700, 1.804850]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H_eval minus H_only_eval
+  success: diff=0.005000, 95% CI=[-0.035000, 0.045000]
+  irreversible_failure: diff=-0.005000, 95% CI=[-0.045000, 0.035000]
+  net_reward: diff=0.080150, 95% CI=[-1.143200, 1.310250]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H_calibrated_eval minus p_times_H_eval
+  success: diff=0.000000, 95% CI=[-0.040000, 0.040000]
+  irreversible_failure: diff=0.000000, 95% CI=[-0.040000, 0.040000]
+  net_reward: diff=0.000000, 95% CI=[-1.267650, 1.254400]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H_calibrated_eval minus H_only_eval
+  success: diff=0.005000, 95% CI=[-0.020000, 0.030000]
+  irreversible_failure: diff=-0.005000, 95% CI=[-0.030000, 0.020000]
+  net_reward: diff=0.080150, 95% CI=[-0.708200, 0.855000]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H_calibrated_eval minus p_only_eval
+  success: diff=0.005000, 95% CI=[-0.050000, 0.060000]
+  irreversible_failure: diff=-0.005000, 95% CI=[-0.060000, 0.050000]
+  net_reward: diff=0.300950, 95% CI=[-1.335200, 1.927300]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]

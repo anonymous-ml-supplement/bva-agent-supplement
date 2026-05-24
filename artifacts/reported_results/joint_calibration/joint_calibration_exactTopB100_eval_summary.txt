@@ -1,0 +1,10 @@
+Joint calibration exact-top-B evaluation
+cal split: seeds 20-119
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200
+calibrator: pure Python monotone binning, no sklearn
+
+p_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=2.871, avg_verification_cost=0.250, avg_selected_branch_harm=11.862, avg_skipped_branch_harm=12.658
+H_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=3.092, avg_verification_cost=0.250, avg_selected_branch_harm=12.303, avg_skipped_branch_harm=12.217
+p_times_H_eval: n=200, verify_n=100, verify_rate=0.500, success=0.795, irreversible_failure=0.205, avg_net_reward=3.172, avg_verification_cost=0.250, avg_selected_branch_harm=12.464, avg_skipped_branch_harm=12.057
+p_times_H_calibrated_eval: n=200, verify_n=100, verify_rate=0.500, success=0.795, irreversible_failure=0.205, avg_net_reward=3.172, avg_verification_cost=0.250, avg_selected_branch_harm=12.464, avg_skipped_branch_harm=12.057

@@ -1,0 +1,11 @@
+Adversarial relabel exact-top-B evaluation
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200
+attack: highest branch_harm_exact seeds have harm_score relabeled to minimum eval harm_score
+
+p_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=2.871, avg_verification_cost=0.250, avg_selected_branch_harm=11.862, avg_skipped_branch_harm=12.658, attacked_n=0, attacked_selected=0
+p_times_H_clean_eval: n=200, verify_n=100, verify_rate=0.500, success=0.795, irreversible_failure=0.205, avg_net_reward=3.172, avg_verification_cost=0.250, avg_selected_branch_harm=12.464, avg_skipped_branch_harm=12.057, attacked_n=0, attacked_selected=0
+adv_relabel_p_times_H_rho_0.00: n=200, verify_n=100, verify_rate=0.500, success=0.795, irreversible_failure=0.205, avg_net_reward=3.172, avg_verification_cost=0.250, avg_selected_branch_harm=12.464, avg_skipped_branch_harm=12.057, attacked_n=0, attacked_selected=0
+adv_relabel_p_times_H_rho_0.10: n=200, verify_n=100, verify_rate=0.500, success=0.740, irreversible_failure=0.260, avg_net_reward=1.273, avg_verification_cost=0.250, avg_selected_branch_harm=8.666, avg_skipped_branch_harm=15.854, attacked_n=20, attacked_selected=0
+adv_relabel_p_times_H_rho_0.25: n=200, verify_n=100, verify_rate=0.500, success=0.655, irreversible_failure=0.345, avg_net_reward=-1.276, avg_verification_cost=0.250, avg_selected_branch_harm=3.568, avg_skipped_branch_harm=20.952, attacked_n=50, attacked_selected=0
+adv_relabel_p_times_H_rho_0.50: n=200, verify_n=100, verify_rate=0.500, success=0.665, irreversible_failure=0.335, avg_net_reward=-1.064, avg_verification_cost=0.250, avg_selected_branch_harm=3.993, avg_skipped_branch_harm=20.527, attacked_n=100, attacked_selected=17

@@ -1,0 +1,28 @@
+Held-out seed-split diagnostic
+case: dependency_sensitive
+cal/training split: seeds 20-119
+held-out eval split: seeds 120-319
+budget: exact top-B = 100 / 200
+source: locked PRM baseline raw table
+
+Important wording:
+This is a disjoint held-out seed-split diagnostic within the dependency-sensitive sandbox.
+It is not a separately implemented dep_sensitive_held_out sandbox case.
+
+p_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=2.871, avg_verification_cost=0.250, avg_selected_branch_harm=11.862, avg_skipped_branch_harm=12.658
+H_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=3.092, avg_verification_cost=0.250, avg_selected_branch_harm=12.303, avg_skipped_branch_harm=12.217
+p_times_H_eval: n=200, verify_n=100, verify_rate=0.500, success=0.795, irreversible_failure=0.205, avg_net_reward=3.172, avg_verification_cost=0.250, avg_selected_branch_harm=12.464, avg_skipped_branch_harm=12.057
+PRM_task_fail_eval: n=200, verify_n=100, verify_rate=0.500, success=0.805, irreversible_failure=0.195, avg_net_reward=3.256, avg_verification_cost=0.250, avg_selected_branch_harm=12.631, avg_skipped_branch_harm=11.889
+PRM_value_gain_eval: n=200, verify_n=100, verify_rate=0.500, success=0.805, irreversible_failure=0.195, avg_net_reward=3.324, avg_verification_cost=0.250, avg_selected_branch_harm=12.768, avg_skipped_branch_harm=11.752
+
+Interpretation:
+On the disjoint held-out seed split, p_times_H_eval is directionally better than p_only_eval and H_only_eval under the same exact budget.
+The learned PRM baselines are directionally stronger than fixed p_times_H, but paired bootstrap confidence intervals in the locked PRM baseline analysis cross zero.
+Therefore this table should be reported as diagnostic held-out evidence, not as statistically conclusive evidence.
+
+Recommended manuscript wording:
+We additionally evaluate on a disjoint held-out seed split within the dependency-sensitive sandbox. Seeds 20-119 are used for calibration or PRM fitting, while seeds 120-319 are reserved for evaluation. This diagnostic does not introduce a new held-out sandbox case, but checks whether the routing trends persist on seeds not used for calibration.
+
+
+Source bootstrap file:
+../artifacts/reported_results/prm_baseline/prm_baseline_exactTopB100_eval_bootstrap_ci.txt

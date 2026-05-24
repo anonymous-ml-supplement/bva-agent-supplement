@@ -1,0 +1,19 @@
+Correlated verifier exactTopB100 eval bootstrap CI
+Input: ../artifacts/reported_results/correlated_verifier/correlated_verifier_exactTopB100_eval_raw.csv
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200 by clean p_times_H
+comparison: correlated verifier failure minus uniform verifier q=0.35
+Common paired seeds: 200
+Bootstrap resamples: 10000
+
+Raw policy means:
+p_times_H_uniform_q0p35: verify_n=100, corrected_n=38, detected_rate=0.380000, success=0.685000, irrev=0.315000, net_reward=-0.706850, corrected_mean=0.190000
+p_times_H_correlated_qhard0p10_qeasy0p60: verify_n=100, corrected_n=43, detected_rate=0.430000, success=0.640000, irrev=0.360000, net_reward=-2.125100, corrected_mean=0.215000
+
+Paired bootstrap differences: A - B
+
+p_times_H_correlated_qhard0p10_qeasy0p60 minus p_times_H_uniform_q0p35
+  success: diff=-0.045000, 95% CI=[-0.090000, -0.005000]
+  irreversible_failure: diff=0.045000, 95% CI=[0.005000, 0.085000]
+  net_reward: diff=-1.418250, 95% CI=[-2.737450, -0.129300]
+  corrected: diff=0.025000, 95% CI=[-0.045000, 0.095000]

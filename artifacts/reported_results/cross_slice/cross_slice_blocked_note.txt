@@ -1,0 +1,19 @@
+Table 3 held-out run was attempted but blocked.
+
+Reason:
+The current oc_reset_and_hint.py argparse only supports:
+  easy
+  dependency_sensitive
+  corruption_prone
+
+The attempted held-out slice:
+  dep_sensitive_held_out
+
+failed before any episode completed.
+
+Conclusion:
+Do not use dep_sensitive_held_out until the environment generator and oc_reset_and_hint.py are extended to support it.
+For the next revision step, proceed with the supported cross-slice evaluation:
+  easy
+  dependency_sensitive
+  corruption_prone
