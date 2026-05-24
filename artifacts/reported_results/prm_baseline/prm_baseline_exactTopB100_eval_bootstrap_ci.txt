@@ -1,0 +1,58 @@
+PRM baseline exactTopB100 eval bootstrap CI
+Input: ../artifacts/reported_results/prm_baseline/prm_baseline_exactTopB100_eval_raw.csv
+cal split: seeds 20-119
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200
+Common paired seeds: 200
+Bootstrap resamples: 10000
+
+Raw policy means:
+p_only_eval: verify_n=100, success=0.790000, irrev=0.210000, net_reward=2.870750, branch_harm=12.260150
+H_only_eval: verify_n=100, success=0.790000, irrev=0.210000, net_reward=3.091550, branch_harm=12.260150
+p_times_H_eval: verify_n=100, success=0.795000, irrev=0.205000, net_reward=3.171700, branch_harm=12.260150
+PRM_task_fail_eval: verify_n=100, success=0.805000, irrev=0.195000, net_reward=3.255500, branch_harm=12.260150
+PRM_value_gain_eval: verify_n=100, success=0.805000, irrev=0.195000, net_reward=3.323900, branch_harm=12.260150
+
+Paired bootstrap differences: A - B
+
+p_times_H_eval minus p_only_eval
+  success: diff=0.005000, 95% CI=[-0.030000, 0.040000]
+  irreversible_failure: diff=-0.005000, 95% CI=[-0.040000, 0.030000]
+  net_reward: diff=0.300950, 95% CI=[-0.739950, 1.346300]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+p_times_H_eval minus H_only_eval
+  success: diff=0.005000, 95% CI=[-0.035000, 0.045000]
+  irreversible_failure: diff=-0.005000, 95% CI=[-0.045000, 0.035000]
+  net_reward: diff=0.080150, 95% CI=[-1.125200, 1.296900]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+PRM_task_fail_eval minus p_times_H_eval
+  success: diff=0.010000, 95% CI=[-0.045000, 0.070000]
+  irreversible_failure: diff=-0.010000, 95% CI=[-0.065000, 0.045000]
+  net_reward: diff=0.083800, 95% CI=[-1.641500, 1.822550]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+PRM_value_gain_eval minus p_times_H_eval
+  success: diff=0.010000, 95% CI=[-0.045000, 0.065000]
+  irreversible_failure: diff=-0.010000, 95% CI=[-0.065000, 0.045000]
+  net_reward: diff=0.152200, 95% CI=[-1.584750, 1.864000]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+PRM_value_gain_eval minus PRM_task_fail_eval
+  success: diff=0.000000, 95% CI=[-0.020000, 0.020000]
+  irreversible_failure: diff=0.000000, 95% CI=[-0.020000, 0.020000]
+  net_reward: diff=0.068400, 95% CI=[-0.547400, 0.707300]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+PRM_value_gain_eval minus p_only_eval
+  success: diff=0.015000, 95% CI=[-0.045000, 0.075000]
+  irreversible_failure: diff=-0.015000, 95% CI=[-0.075000, 0.045000]
+  net_reward: diff=0.453150, 95% CI=[-1.367250, 2.287700]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+PRM_value_gain_eval minus H_only_eval
+  success: diff=0.015000, 95% CI=[-0.030000, 0.065000]
+  irreversible_failure: diff=-0.015000, 95% CI=[-0.060000, 0.030000]
+  net_reward: diff=0.232350, 95% CI=[-1.177200, 1.629600]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]

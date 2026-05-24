@@ -1,0 +1,767 @@
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s30",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 30,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 26.14,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s31",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 31,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s33",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 33,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s34",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 34,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.48,
+  "total_reward": -22.28
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s37",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 37,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s38",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 38,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s40",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 40,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s42",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 42,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 26.14,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s43",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 43,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.59,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s44",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 44,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s46",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 46,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s48",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 48,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s50",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 50,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s51",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 51,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.38,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s54",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 54,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s56",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 56,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s30 --case dependency_sensitive --policy always_verify --seed 30 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s31 --case dependency_sensitive --policy always_verify --seed 31 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s33 --case dependency_sensitive --policy no_verify --seed 33 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s34 --case dependency_sensitive --policy no_verify --seed 34 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s37 --case dependency_sensitive --policy always_verify --seed 37 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s38 --case dependency_sensitive --policy always_verify --seed 38 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s40 --case dependency_sensitive --policy no_verify --seed 40 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s42 --case dependency_sensitive --policy always_verify --seed 42 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s43 --case dependency_sensitive --policy always_verify --seed 43 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s44 --case dependency_sensitive --policy always_verify --seed 44 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s46 --case dependency_sensitive --policy no_verify --seed 46 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s48 --case dependency_sensitive --policy no_verify --seed 48 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s50 --case dependency_sensitive --policy always_verify --seed 50 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s51 --case dependency_sensitive --policy always_verify --seed 51 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s54 --case dependency_sensitive --policy no_verify --seed 54 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s56 --case dependency_sensitive --policy always_verify --seed 56 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s57",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 57,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s58",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 58,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 29.919999999999998,
+  "total_reward": -20.72
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s63",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 63,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s68",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 68,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 31.27,
+  "total_reward": -22.07
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s69",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 69,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 32.32,
+  "total_reward": -23.12
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s70",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 70,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s72",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 72,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s77",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 77,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s78",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 78,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s79",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 79,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s82",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 82,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s83",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 83,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s86",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 86,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 29.38,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s94",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 94,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s97",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 97,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 34.0,
+  "total_reward": -24.8
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s100",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 100,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s101",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 101,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s57 --case dependency_sensitive --policy no_verify --seed 57 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s58 --case dependency_sensitive --policy no_verify --seed 58 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s63 --case dependency_sensitive --policy no_verify --seed 63 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s68 --case dependency_sensitive --policy no_verify --seed 68 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s69 --case dependency_sensitive --policy no_verify --seed 69 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s70 --case dependency_sensitive --policy always_verify --seed 70 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s72 --case dependency_sensitive --policy always_verify --seed 72 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s77 --case dependency_sensitive --policy no_verify --seed 77 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s78 --case dependency_sensitive --policy no_verify --seed 78 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s79 --case dependency_sensitive --policy always_verify --seed 79 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s82 --case dependency_sensitive --policy no_verify --seed 82 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s83 --case dependency_sensitive --policy no_verify --seed 83 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s86 --case dependency_sensitive --policy always_verify --seed 86 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s94 --case dependency_sensitive --policy no_verify --seed 94 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s97 --case dependency_sensitive --policy no_verify --seed 97 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s100 --case dependency_sensitive --policy always_verify --seed 100 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s101 --case dependency_sensitive --policy no_verify --seed 101 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s102",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 102,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.220000000000002,
+  "total_reward": -21.020000000000003
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s104",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 104,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.64,
+  "total_reward": -21.44
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s105",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 105,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s107",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 107,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s108",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 108,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s109",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 109,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s111",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 111,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s112",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 112,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 3.5999999999999996,
+  "total_reward": 5.6
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_unverified_s114",
+  "case": "dependency_sensitive",
+  "policy": "no_verify",
+  "seed": 114,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 0,
+  "success": 0,
+  "irreversible_failure": 1,
+  "branch_harm_exact": 30.64,
+  "total_reward": -21.44
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s116",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 116,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s118",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 118,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+{
+  "status": "ok",
+  "episode_id": "revision_prm_cal_missing_verified_s119",
+  "case": "dependency_sensitive",
+  "policy": "always_verify",
+  "seed": 119,
+  "results_dir": "./ANONYMIZED_PATH",
+  "summary_csv": "../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv",
+  "verify_used": 1,
+  "success": 1,
+  "irreversible_failure": 0,
+  "branch_harm_exact": 0.0,
+  "total_reward": 9.2
+}
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s102 --case dependency_sensitive --policy no_verify --seed 102 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s104 --case dependency_sensitive --policy no_verify --seed 104 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s105 --case dependency_sensitive --policy always_verify --seed 105 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s107 --case dependency_sensitive --policy always_verify --seed 107 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s108 --case dependency_sensitive --policy no_verify --seed 108 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s109 --case dependency_sensitive --policy no_verify --seed 109 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s111 --case dependency_sensitive --policy always_verify --seed 111 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s112 --case dependency_sensitive --policy no_verify --seed 112 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_unverified_s114 --case dependency_sensitive --policy no_verify --seed 114 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s116 --case dependency_sensitive --policy always_verify --seed 116 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s118 --case dependency_sensitive --policy always_verify --seed 118 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+=== RUNNING ===
+/usr/bin/python3 ./ANONYMIZED_PATH --episode revision_prm_cal_missing_verified_s119 --case dependency_sensitive --policy always_verify --seed 119 --summary-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_raw.csv --runlist-csv ../artifacts/reported_results/prm_baseline/prm_cal_missing_outcomes_runlist.csv --random-verify-prob 0.5 --uncertainty-threshold 0.6 --harm-threshold 0.45
+
+Completed 45 runs.

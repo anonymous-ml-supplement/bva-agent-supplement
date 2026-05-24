@@ -1,0 +1,60 @@
+Table 6 q-sensitivity bootstrap CI
+Difference = harm_aware_selective minus uncertainty_only_matched_budget
+Bootstrap resamples: 10000
+
+========================================================================
+q = 0.20
+Input: ../artifacts/reported_results/q_sensitivity/revision_table6_qsens_dep300_q0p20_exactTopB150_raw.csv
+Common paired seeds: 300
+
+harm_aware_selective: verify_n=150, success=0.790000, irrev=0.210000, net_reward=3.047000, selected_branch_harm=13.229533
+uncertainty_only_matched_budget: verify_n=150, success=0.796667, irrev=0.203333, net_reward=3.007267, selected_branch_harm=13.150067
+
+Paired bootstrap differences:
+  success: diff=-0.006667, 95% CI=[-0.040000, 0.026667]
+  irreversible_failure: diff=0.006667, 95% CI=[-0.026667, 0.040000]
+  net_reward: diff=0.039733, 95% CI=[-0.932300, 1.044767]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+========================================================================
+q = 0.35
+Input: ../artifacts/reported_results/q_sensitivity/revision_table6_qsens_dep300_q0p35_exactTopB150_raw.csv
+Common paired seeds: 300
+
+harm_aware_selective: verify_n=150, success=0.816667, irrev=0.183333, net_reward=3.700367, selected_branch_harm=11.589933
+uncertainty_only_matched_budget: verify_n=150, success=0.813333, irrev=0.186667, net_reward=3.455233, selected_branch_harm=11.099667
+
+Paired bootstrap differences:
+  success: diff=0.003333, 95% CI=[-0.026667, 0.033333]
+  irreversible_failure: diff=-0.003333, 95% CI=[-0.033333, 0.026667]
+  net_reward: diff=0.245133, 95% CI=[-0.624233, 1.148433]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+========================================================================
+q = 0.50
+Input: ../artifacts/reported_results/q_sensitivity/revision_table6_qsens_dep300_q0p50_exactTopB150_raw.csv
+Common paired seeds: 300
+
+harm_aware_selective: verify_n=150, success=0.860000, irrev=0.140000, net_reward=4.773500, selected_branch_harm=10.134600
+uncertainty_only_matched_budget: verify_n=150, success=0.846667, irrev=0.153333, net_reward=4.302267, selected_branch_harm=9.192133
+
+Paired bootstrap differences:
+  success: diff=0.013333, 95% CI=[-0.013333, 0.043333]
+  irreversible_failure: diff=-0.013333, 95% CI=[-0.040000, 0.013333]
+  net_reward: diff=0.471233, 95% CI=[-0.337933, 1.315733]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+
+========================================================================
+q = 0.80
+Input: ../artifacts/reported_results/q_sensitivity/revision_table6_qsens_dep300_q0p80_exactTopB150_raw.csv
+Common paired seeds: 300
+
+harm_aware_selective: verify_n=150, success=0.956667, irrev=0.043333, net_reward=7.209367, selected_branch_harm=5.137400
+uncertainty_only_matched_budget: verify_n=150, success=0.953333, irrev=0.046667, net_reward=7.093433, selected_branch_harm=4.905533
+
+Paired bootstrap differences:
+  success: diff=0.003333, 95% CI=[-0.010000, 0.016667]
+  irreversible_failure: diff=-0.003333, 95% CI=[-0.020000, 0.010000]
+  net_reward: diff=0.115933, 95% CI=[-0.336733, 0.616933]
+  branch_harm_exact: diff=0.000000, 95% CI=[0.000000, 0.000000]
+

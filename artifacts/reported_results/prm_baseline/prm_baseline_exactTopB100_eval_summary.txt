@@ -1,0 +1,14 @@
+PRM baseline exact-top-B evaluation
+cal split: seeds 20-119
+eval split: seeds 120-319
+budget: exact top-B = 100 / 200
+model: pure Python logistic regression with standardized tabular features
+features: p_score,harm_score,p_times_H_score,downstream_dependency_count,rollback_difficulty,persistent_state_risk,downstream_failure_penalty
+PRM_task_fail target: unverified failure label
+PRM_value_gain target: normalized positive reward gain from verification
+
+p_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=2.871, avg_verification_cost=0.250, avg_selected_branch_harm=11.862, avg_skipped_branch_harm=12.658
+H_only_eval: n=200, verify_n=100, verify_rate=0.500, success=0.790, irreversible_failure=0.210, avg_net_reward=3.092, avg_verification_cost=0.250, avg_selected_branch_harm=12.303, avg_skipped_branch_harm=12.217
+p_times_H_eval: n=200, verify_n=100, verify_rate=0.500, success=0.795, irreversible_failure=0.205, avg_net_reward=3.172, avg_verification_cost=0.250, avg_selected_branch_harm=12.464, avg_skipped_branch_harm=12.057
+PRM_task_fail_eval: n=200, verify_n=100, verify_rate=0.500, success=0.805, irreversible_failure=0.195, avg_net_reward=3.256, avg_verification_cost=0.250, avg_selected_branch_harm=12.631, avg_skipped_branch_harm=11.889
+PRM_value_gain_eval: n=200, verify_n=100, verify_rate=0.500, success=0.805, irreversible_failure=0.195, avg_net_reward=3.324, avg_verification_cost=0.250, avg_selected_branch_harm=12.768, avg_skipped_branch_harm=11.752

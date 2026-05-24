@@ -1,0 +1,10 @@
+paired seeds = 300
+A = harm_aware_selective
+B = uncertainty_only_matched_budget
+
+metric,obs_diff_A_minus_B,ci95_low,ci95_high
+net_reward,0.245133,-0.625167,1.162533
+success,0.003333,-0.026667,0.033333
+irreversible_failure,-0.003333,-0.033333,0.026667
+verification_cost,0.000000,-0.028333,0.028333
+branch_harm_exact,0.000000,0.000000,0.000000

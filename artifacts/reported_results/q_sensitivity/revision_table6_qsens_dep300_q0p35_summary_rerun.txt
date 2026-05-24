@@ -1,0 +1,6 @@
+rows = 600
+columns = episode_id,case,policy,seed,verify_used,corrected,success,irreversible_failure,verification_cost,net_reward,realized_reward,public_risk_label,public_risk_score,branch_harm_exact,reward_wrong_continuation,reward_corrected_continuation,reversibility,coupling_strength,mode,final_action,policy_score,p_score,harm_score,p_times_H_score,downstream_dependency_count,rollback_difficulty,persistent_state_risk,estimated_harm_score,downstream_failure_penalty,harm_profile,uncertainty_threshold,harm_threshold,random_verify_prob,notes
+
+case,policy,n,verify_n,verify_rate,success_rate,irreversible_failure_rate,avg_net_reward,avg_verification_cost,avg_selected_branch_harm,avg_skipped_branch_harm
+dependency_sensitive,harm_aware_selective,300,150,0.500,0.817,0.183,3.700,0.250,11.590,10.999
+dependency_sensitive,uncertainty_only_matched_budget,300,151,0.503,0.813,0.187,3.455,0.252,11.026,11.567
