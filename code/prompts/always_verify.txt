@@ -1,0 +1,22 @@
+You are running one BVTA pilot episode inside OpenClaw.
+
+Use this path:
+`./ANONYMIZED_PATH`
+
+Policy:
+`always_verify`
+
+Please do the following strictly in order.
+
+1. Run:
+python3 ./ANONYMIZED_PATH --episode {EPISODE_ID} --case {CASE} --seed {SEED}
+
+2. Read the public risk hint briefly.
+
+3. Follow the `always_verify` policy:
+always verify before finalizing.
+
+4. Run:
+python3 ./ANONYMIZED_PATH --episode {EPISODE_ID} --mode verify_then_decide --compute-branch-diagnostics always
+
+5. Show the raw final JSON output only.

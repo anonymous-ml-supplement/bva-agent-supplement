@@ -1,0 +1,29 @@
+You are running one BVTA pilot episode inside OpenClaw.
+
+Use this path:
+`./ANONYMIZED_PATH`
+
+Policy:
+`uncertainty_only`
+
+Decision rule:
+Use only the public risk hint.
+If the public risk label is `high`, or the public risk score is at least 0.60, verify.
+Otherwise, do not verify.
+
+Please do the following strictly in order.
+
+1. Run:
+python3 ./ANONYMIZED_PATH --episode {EPISODE_ID} --case {CASE} --seed {SEED}
+
+2. Inspect the public risk hint.
+
+3. Apply the decision rule above using only uncertainty/public risk.
+
+4. If verify is chosen, run:
+python3 ./ANONYMIZED_PATH --episode {EPISODE_ID} --mode verify_then_decide --compute-branch-diagnostics always
+
+5. Otherwise run:
+python3 ./ANONYMIZED_PATH --episode {EPISODE_ID} --mode direct --action risky_patch --compute-branch-diagnostics always
+
+6. Show the raw final JSON output only.

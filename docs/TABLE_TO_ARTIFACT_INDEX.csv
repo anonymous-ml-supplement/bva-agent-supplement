@@ -1,0 +1,14 @@
+paper_item,description,primary_artifact_folder,bootstrap_or_secondary_folder,interpretation
+Table 2,Exact-budget dependency-sensitive evaluation,artifacts/reported_results/main_exact_budget,artifacts/reported_results/main_bootstrap,"Directional evidence, intervals cross zero"
+Table 3,Cross-slice behavior under shared thresholds,artifacts/reported_results/cross_slice,,"Routing behavior diagnostic, not exact-budget fairness table"
+Figure 1,Selected versus skipped branch harm,artifacts/reported_results/main_exact_budget,,Analysis-only branch harm from locked exact-budget outputs
+Table 4,Component ablation,artifacts/reported_results/component_ablation,artifacts/reported_results/component_ablation_bootstrap,H-only directionally strongest; p times H not claimed to dominate H-only
+Table 5,Verifier-quality sensitivity,artifacts/reported_results/q_sensitivity,artifacts/reported_results/q_sensitivity_bootstrap,Sensitivity diagnostic
+Figure 2,Irreversible-failure rate versus q,artifacts/reported_results/q_sensitivity,,Generated from q sensitivity summaries
+Table 6,Joint calibration held-out seed split,artifacts/reported_results/joint_calibration,,Calibration diagnostic on seeds 20-119 and 120-319
+Table 7,Learned PRM-style routers,artifacts/reported_results/prm_baseline,,Learned scalar-router diagnostic
+Table 8,True held-out procedural diagnostic,artifacts/reported_results/true_heldout_procedural,,Small stress test; p-only directionally strongest
+Table 9,Adversarial relabel probe,artifacts/reported_results/adversarial_relabel,,Failure-mode stress test
+Table 10,Correlated verifier failure,artifacts/reported_results/correlated_verifier,,Failure-mode stress test
+Appendix held-out seed split,Disjoint seed-split diagnostic,artifacts/reported_results/heldout_seed_split,,Seed-disjoint diagnostic
+Appendix corruption-prone tight budget,Boundary case,artifacts/reported_results/corruption_tight_budget,,Policies select identical top-B set in this diagnostic

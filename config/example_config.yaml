@@ -1,0 +1,42 @@
+# Example configuration for reproducing the controlled OpenClaw-facing evaluation.
+# This file is intentionally safe to share. It contains no private API keys,
+# local paths, hostnames, usernames, or institution-specific identifiers.
+
+model:
+  # The controlled sandbox experiments do not require a live LLM API call.
+  # A provider/model field is kept only for reproducing the optional embedded
+  # OpenClaw trace workflow.
+  provider: openai
+  model_name: gpt-4o-mini
+  api_key_env: OPENAI_API_KEY
+
+openclaw:
+  # The revision reports a controlled OpenClaw-facing agent evaluation.
+  # The embedded trace validates the reset/hint/finalize interface.
+  mode: embedded
+  workspace_root: ./workspace
+  episode_root: ./episodes
+  enable_gateway: false
+
+verification:
+  default_q: 0.35
+  verification_cost: 0.5
+  default_budget_rate: 0.5
+  exact_budget_top_b:
+    dependency_sensitive_main: 150
+    heldout_seed_split: 100
+    dep_sensitive_held_out: 50
+
+sandbox:
+  cases:
+    - easy
+    - dependency_sensitive
+    - corruption_prone
+    - dep_sensitive_held_out
+  calibration_seeds: [20, 119]
+  heldout_eval_seeds: [120, 319]
+  true_heldout_eval_seeds: [400, 499]
+
+artifacts:
+  locked_root: artifacts/reported_results/locked
+  raw_root: artifacts/reported_results/raw
